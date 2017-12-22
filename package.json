@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
-    "vue-popperjs": "1.2.5"
+    "vue-popperjs": "1.2.5",
+    "vue-tippy": "2.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

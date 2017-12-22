@@ -1,5 +1,10 @@
 import Vue from 'vue'
 import App from './App'
+import VueTippy from 'vue-tippy'
+
+Vue.use(VueTippy, {
+  theme: 'foo'
+})
 
 Vue.config.productionTip = false
 
